@@ -34,4 +34,4 @@ export default function Timer(props) {
             </div>
         </div>
     )
-}
+};
