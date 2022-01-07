@@ -7,7 +7,7 @@ function App() {
       <Timer onTick={(seconds) => console.log('There is time left ' + seconds)}
         time={8000}
         step={1000}
-        autostart={false}
+        autostart={true}
       />
     </div>
   );

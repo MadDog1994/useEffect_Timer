@@ -14,8 +14,8 @@ export default function Timer(props) {
                 setSeconds(prevTime => prevTime - step)
                 onTick(seconds)
             }, 1000)
-            if (seconds === 0) {
-                setTimeOn(false)
+            if (seconds < 0) {
+                setSeconds(time)
             }
         }
         return () => clearInterval(interval)
@@ -30,7 +30,6 @@ export default function Timer(props) {
             <div className={'button-position'}>
             <button onClick={() => setTimeOn(true)}>Start</button>
             <button onClick={() => setTimeOn(false)}>Stop</button>
-            <button onClick={() => setTimeOn(true)}>Resume</button>
             <button onClick={() => setSeconds(time)}>Reset</button>
             </div>
         </div>
