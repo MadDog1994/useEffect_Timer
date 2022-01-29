@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/useEffect/static/css/main.2aadc7b5.chunk.css",
-    "main.js": "/useEffect/static/js/main.8d2917d7.chunk.js",
-    "main.js.map": "/useEffect/static/js/main.8d2917d7.chunk.js.map",
-    "runtime-main.js": "/useEffect/static/js/runtime-main.e070060b.js",
-    "runtime-main.js.map": "/useEffect/static/js/runtime-main.e070060b.js.map",
-    "static/js/2.881bab40.chunk.js": "/useEffect/static/js/2.881bab40.chunk.js",
-    "static/js/2.881bab40.chunk.js.map": "/useEffect/static/js/2.881bab40.chunk.js.map",
-    "static/js/3.9b0cd8e8.chunk.js": "/useEffect/static/js/3.9b0cd8e8.chunk.js",
-    "static/js/3.9b0cd8e8.chunk.js.map": "/useEffect/static/js/3.9b0cd8e8.chunk.js.map",
-    "index.html": "/useEffect/index.html",
-    "static/css/main.2aadc7b5.chunk.css.map": "/useEffect/static/css/main.2aadc7b5.chunk.css.map",
-    "static/js/2.881bab40.chunk.js.LICENSE.txt": "/useEffect/static/js/2.881bab40.chunk.js.LICENSE.txt",
-    "static/media/timer.css": "/useEffect/static/media/cosmos.60d8cb56.jpg"
+    "main.css": "/React_Projects/static/css/main.0e4cfaca.chunk.css",
+    "main.js": "/React_Projects/static/js/main.017518af.chunk.js",
+    "main.js.map": "/React_Projects/static/js/main.017518af.chunk.js.map",
+    "runtime-main.js": "/React_Projects/static/js/runtime-main.94a76d9e.js",
+    "runtime-main.js.map": "/React_Projects/static/js/runtime-main.94a76d9e.js.map",
+    "static/js/2.881bab40.chunk.js": "/React_Projects/static/js/2.881bab40.chunk.js",
+    "static/js/2.881bab40.chunk.js.map": "/React_Projects/static/js/2.881bab40.chunk.js.map",
+    "static/js/3.9b0cd8e8.chunk.js": "/React_Projects/static/js/3.9b0cd8e8.chunk.js",
+    "static/js/3.9b0cd8e8.chunk.js.map": "/React_Projects/static/js/3.9b0cd8e8.chunk.js.map",
+    "index.html": "/React_Projects/index.html",
+    "static/css/main.0e4cfaca.chunk.css.map": "/React_Projects/static/css/main.0e4cfaca.chunk.css.map",
+    "static/js/2.881bab40.chunk.js.LICENSE.txt": "/React_Projects/static/js/2.881bab40.chunk.js.LICENSE.txt",
+    "static/media/timer.css": "/React_Projects/static/media/cosmos.60d8cb56.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e070060b.js",
+    "static/js/runtime-main.94a76d9e.js",
     "static/js/2.881bab40.chunk.js",
-    "static/css/main.2aadc7b5.chunk.css",
-    "static/js/main.8d2917d7.chunk.js"
+    "static/css/main.0e4cfaca.chunk.css",
+    "static/js/main.017518af.chunk.js"
   ]
 }
